@@ -34,9 +34,9 @@ pip install colorama
 ## 🚀 Usage  
 
 ### **Run the script**  
-Save the script as `ciphercli.py` and execute it from the terminal:  
+Save the script as `CipherCLI.py` and execute it from the terminal:  
 ```sh
-python ciphercli.py
+python CipherCLI.py
 ```
 
 ### **🔹 Encrypt a Message**  

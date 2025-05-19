@@ -40,7 +40,7 @@ cd CipherCLI
 sudo python3 -m venv myenv
 source myenv/bin/activate
 sudo chown -R $USER:$USER /home/kali/CipherCLI/myenv/
-pip install -r reqirements.txt
+pip install -r requirements.txt
 ```
 ---
 

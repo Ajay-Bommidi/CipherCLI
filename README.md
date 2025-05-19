@@ -35,10 +35,10 @@ pip install colorama
 ```
 or 
 ```
-CipherCLI
+cd CipherCLI
 sudo python3 -m venv myenv
 source myenv/bin/activate
-pip install reqirements.txt
+pip install -r reqirements.txt
 ```
 ---
 
@@ -69,13 +69,10 @@ Enter shift value (1-25): 3
 4. The decrypted message will be displayed.  
 
 **Example:**  
-```
 Enter your choice (e/d): d
 Enter your message: Khoor, Zruog!
 Enter shift value (1-25): 3
 ✅ Result: Hello, World!
-```
-
 ---
 
 ## 📌 How It Works  

@@ -30,6 +30,7 @@ CipherCLI uses `colorama` for CLI color enhancements. Install it using:
 cd CipherCLI
 sudo python3 -m venv myenv
 source myenv/bin/activate
+sudo chown -R $USER:$USER /home/kali/CipherCLI/myenv/
 pip install colorama
 
 ```
@@ -38,6 +39,7 @@ or
 cd CipherCLI
 sudo python3 -m venv myenv
 source myenv/bin/activate
+sudo chown -R $USER:$USER /home/kali/CipherCLI/myenv/
 pip install -r reqirements.txt
 ```
 ---

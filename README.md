@@ -20,6 +20,7 @@ Before using CipherCLI, you need to install **Python (3.x recommended)** and the
 Check if Python is installed:  
 ```sh
 python --version
+sudo git clone https://github.com/Ajay-Bommidi/CipherCLI.git
 ```
 If not installed, download it from [python.org](https://www.python.org/downloads/).  
 

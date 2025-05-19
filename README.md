@@ -26,15 +26,25 @@ If not installed, download it from [python.org](https://www.python.org/downloads
 ### **2️⃣ Install Dependencies**  
 CipherCLI uses `colorama` for CLI color enhancements. Install it using:  
 ```sh
+cd CipherCLI
+sudo python3 -m venv myenv
+source myenv/bin/activate
 pip install colorama
-```
 
+```
+or 
+```
+CipherCLI
+sudo python3 -m venv myenv
+source myenv/bin/activate
+pip install reqirements.txt
+```
 ---
 
 ## 🚀 Usage  
 
 ### **Run the script**  
-Save the script as `CipherCLI.py` and execute it from the terminal:  
+Save the script as `CipherCLI.py` and execute it from the terminal: for (Windows) 
 ```sh
 python CipherCLI.py
 ```
@@ -46,12 +56,10 @@ python CipherCLI.py
 4. The encrypted result will be displayed.  
 
 **Example:**  
-```
 Enter your choice (e/d): e
 Enter your message: Hello, World!
 Enter shift value (1-25): 3
 ✅ Result: Khoor, Zruog!
-```
 
 ### **🔹 Decrypt a Message**  
 1. Choose `d` for decryption.  

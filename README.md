@@ -1,16 +1,8 @@
 # 🔐 CipherCLI – A Command-Line Caesar Cipher Tool  
 
-CipherCLI is a **simple yet powerful command-line tool** that allows users to **encrypt and decrypt messages** using the **Caesar Cipher algorithm**. With a user-friendly interface and interactive prompts, this tool makes encryption and decryption effortless.  
+CipherCLI is a **simple yet powerful command-line tool** that allows users to **encrypt and decrypt messages** using the **Caesar Cipher algorithm**. With a user-friendly interface and interactive prompts, this tool makes encryption and decryption effortless. 
+### (working)
 ![image (4)](https://github.com/user-attachments/assets/fdfbcbf5-fa16-4b56-915e-94ae10e17bfe)
-
----
-
-## 📌 Features  
-✅ **Encrypt and Decrypt Messages** – Secure your text with a shift-based cipher.  
-✅ **User-Friendly CLI** – Simple, interactive, and easy to use.  
-✅ **Colorful and Engaging Interface** – Uses `colorama` for enhanced visuals.  
-✅ **Input Validation** – Ensures only valid text and numeric shift values are entered.  
-✅ **Cross-Platform Support** – Works on Windows, macOS, and Linux.  
 
 ---
 

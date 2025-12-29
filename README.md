@@ -64,10 +64,11 @@ Enter shift value (1-25): 3
 4. The decrypted message will be displayed.  
 
 **Example:**  
-Enter your choice (e/d): d
-Enter your message: Khoor, Zruog!
-Enter shift value (1-25): 3
-✅ Result: Hello, World!
+#### Enter your choice (e/d): d
+#### Enter your message: Khoor, Zruog!
+#### Enter shift value (1-25): 3
+
+#### ✅ Result: Hello, World!
 ---
 
 ## 📌 How It Works  

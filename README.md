@@ -76,12 +76,7 @@ CipherCLI uses the **Caesar Cipher** algorithm, a simple shift-based encryption 
 Example with a shift of **3**:  
 ```
 A → D, B → E, C → F, ..., X → A, Y → B, Z → C
-```
-
-**Why is it useful?**  
-✅ A great way to **learn cryptography basics**.  
-✅ Helps understand **encryption principles** in a simple, visual way.  
-✅ Can be used for **basic text obfuscation** or **fun cryptography projects**.  
+``` 
 
 ---
 
